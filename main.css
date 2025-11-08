@@ -1,0 +1,122 @@
+body {
+  background: #ffdc82;
+}
+p {
+  color: black;
+}
+h1 {
+  font-weight: bold;
+}
+
+header{
+  background-color: #fcb600;
+  color: white;
+  border-radius: 10px;
+  font-family: arial black;
+  font-weight: bold;
+  font-size: 40px;
+  text-align: center;
+}
+
+.Image-and-Text{
+  display: flex;
+  align-items: left;
+  justify-content: center;
+}
+
+.Image{
+  height: 300px;
+  width: 300px;
+  border-color: #fcb600;
+  border-width: 5px;
+  border-style: solid;
+  border-radius: 10px;
+  margin-top: 20px;
+}
+
+.text{
+  margin-left: 10px;
+  font-family: cursive;
+}
+.img-bch{
+  display: flex;
+  display: inline-flex;
+  gap: 10px;
+}
+.btn {
+  position: absolute;
+  top: 400px;
+  left: 10px;
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #fcb600;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+  font-family: sans-serif;
+  transition: background-color 0.3s ease;
+}
+.btn:hover {
+  background-color: #bc8800;
+}
+.cbtn {
+  position: absolute;
+  top: 515px;
+  left: 10px;
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #fcb600;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+  font-family: sans-serif;
+  transition: background-color 0.3s ease;
+}
+.cbtn:hover {
+  background-color: #bc8800;
+}
+.menu {
+  list-style: none;
+  display: flex;
+  gap: 10px;
+  padding: 0;
+  justify-content: center;
+}
+.menu .btn {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #fcb600;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+  font-family: sans-serif;
+  transition: background-color 0.3s ease;
+}
+
+.menu .btn:hover {
+  background-color: #bc8800;
+}
+.fbtn {
+  position: relative;
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #fcb600;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+  font-family: sans-serif;
+  transition: background-color 0.3s ease;
+}
+.fbtn:hover {
+  background-color: #bc8800;
+}
+.dt{
+  color:white;
+  background-color: #fcb600;
+}
+.cdl{
+  color: #66552b;
+  background-color: #fcb600;
+  font-family: cursive;
+  border-radius: 10px;
+}
