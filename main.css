@@ -36,7 +36,7 @@ header{
 
 .text{
   margin-left: 10px;
-  font-family: cursive;
+  font-family: charcoal;
 }
 .img-bch{
   display: flex;
@@ -117,6 +117,6 @@ header{
 .cdl{
   color: #66552b;
   background-color: #fcb600;
-  font-family: cursive;
+  font-family: charcoal;
   border-radius: 10px;
 }
