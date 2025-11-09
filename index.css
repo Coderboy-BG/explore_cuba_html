@@ -9,7 +9,7 @@ h1 {
 }
 header{
   background-color: #fcb600;
-  font-family: arial black;
+  font-family: verdana;
   font-weight: bold;
   border-radius: 10px;
   color: white;
@@ -48,7 +48,7 @@ header{
   color: white;
   text-decoration: none;
   border-radius: 5px;
-  font-family: sans-serif;
+  font-family: verdana;
   transition: background-color 0.3s ease;
 }
 
@@ -65,9 +65,10 @@ header{
   color: white;
   text-decoration: none;
   border-radius: 5px;
-  font-family: sans-serif;
+  font-family: verdana;
   transition: background-color 0.3s ease;
 }
 .bbtn:hover {
   background-color: #bc8800;
 }
+
