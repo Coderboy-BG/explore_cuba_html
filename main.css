@@ -12,7 +12,7 @@ header{
   background-color: #fcb600;
   color: white;
   border-radius: 10px;
-  font-family: arial black;
+  font-family: verdana;
   font-weight: bold;
   font-size: 40px;
   text-align: center;
@@ -36,7 +36,7 @@ header{
 
 .text{
   margin-left: 10px;
-  font-family: charcoal;
+  font-family: verdana;
 }
 .img-bch{
   display: flex;
@@ -53,7 +53,7 @@ header{
   color: white;
   text-decoration: none;
   border-radius: 5px;
-  font-family: sans-serif;
+  font-family: verdana;
   transition: background-color 0.3s ease;
 }
 .btn:hover {
@@ -69,7 +69,7 @@ header{
   color: white;
   text-decoration: none;
   border-radius: 5px;
-  font-family: sans-serif;
+  font-family: verdana;
   transition: background-color 0.3s ease;
 }
 .cbtn:hover {
@@ -89,7 +89,7 @@ header{
   color: white;
   text-decoration: none;
   border-radius: 5px;
-  font-family: sans-serif;
+  font-family: verdana;
   transition: background-color 0.3s ease;
 }
 
@@ -104,7 +104,7 @@ header{
   color: white;
   text-decoration: none;
   border-radius: 5px;
-  font-family: sans-serif;
+  font-family: verdana;
   transition: background-color 0.3s ease;
 }
 .fbtn:hover {
@@ -117,6 +117,7 @@ header{
 .cdl{
   color: #66552b;
   background-color: #fcb600;
-  font-family: charcoal;
+  font-family: verdana;
   border-radius: 10px;
 }
+
